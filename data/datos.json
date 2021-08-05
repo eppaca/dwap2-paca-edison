@@ -1,0 +1,24 @@
+[
+    {
+        "img":"assets/img/Popular.jpg",
+        "tipo":"Popular",
+        "descrip":"Precio por mayor",
+        "precio":"$1.00"
+    },{
+        "img":"assets/img/Pasteleria.jpg",
+        "tipo":"Popular",
+        "descrip":"Precio Unitario",
+        "precio":"$0.20"
+    },{
+        "img":"assets/img/menu/Galleteria.jpg",
+        "tipo":"Panificacion",
+        "descrip":"Croisant Enrollado",
+        "precio":"$0.50"
+    },
+    {
+        "img":"assets/img/menu/Reposteria.jpg",
+        "tipo":"Reposteria",
+        "descrip":"Galleteria",
+        "precio":"$2.00"
+    }
+]
